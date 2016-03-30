@@ -46,11 +46,11 @@ label {
   z-index: 1;
 }
 
-  label [for=opcao-bolos] {
+  label[for=opcao-bolos] {
     left: 0;
   }
 
-  label [for=opcao-bebidas] {
+  label[for=opcao-bebidas] {
     right: 0;
   }
 
