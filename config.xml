@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0"
+  id="br.com.p2hf.cenourapp" version="1.0.0">
+
+  <name>Só de Cenoura</name>
+
+  <description>Aplicativo Hibrido de teste baseado no curso do Alura.</description>
+
+  <author href="http://www.3maismais.com.br" email="fred@3maismais.com.br">
+    Frederico de Oliveira
+  </author>
+</widget>
