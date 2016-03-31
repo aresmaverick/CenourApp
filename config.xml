@@ -9,4 +9,10 @@
   <author href="http://www.3maismais.com.br" email="fred@3maismais.com.br">
     Frederico de Oliveira
   </author>
+
+  <preference name="orientation" value="portrait"/>
+  <preference name="fullscreen" value="true"/>
+  <preference name="permissions" value="none"/>
+
+  <gap:platform name="android">
 </widget>
