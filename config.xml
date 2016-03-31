@@ -14,5 +14,5 @@
   <preference name="fullscreen" value="true"/>
   <preference name="permissions" value="none"/>
 
-  <gap:platform name="android">
+  <gap:platform name="android"/>
 </widget>
